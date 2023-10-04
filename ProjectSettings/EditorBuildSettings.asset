@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/myScenes/3_TerrainTreesWaterSkyboxEthan.unity
-    guid: c91c8d80da233b54a97318f5402c3d69
+  m_Scenes: []
   m_configObjects: {}
